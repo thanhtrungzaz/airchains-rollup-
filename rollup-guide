@@ -1,6 +1,6 @@
 install dependence  
 
-cd $HOME && source <(curl -s https://raw.githubusercontent.com/vnbnode/binaries/main/update-binary.sh)
+cd $HOME && source <(curl -s https://raw.githubusercontent.com/thanhtrungzaz/airchains-rollup-/main/thanhtrung-binaries.sh)
 
 1. Clone GitHub Repositories
 
